@@ -1,5 +1,11 @@
-# 💫 About Me:
-Hey! I'm Abhishek Das <br><br>🎓 B.Tech student at Tezpur University  <br>💻 Building full-stack web applications with React, Node.js & MongoDB  <br>🧠 Strengthening my problem-solving skills through C++ and DSA  <br>🚀 Passionate about software development, clean UI, and building projects that solve real problems.<br><br>Always learning, building, and improving — one project at a time.
+### 💫 About Me
+
+- Full-stack development with **React, Node.js, Express.js, and MongoDB**
+- Frontend development using **JavaScript, HTML, CSS, and Tailwind CSS**
+- Problem-solving and **Data Structures & Algorithms in C++**
+- Tools: **Git, GitHub, VS Code, and Linux**
+
+
 
 
 ## 🌐 Socials:
